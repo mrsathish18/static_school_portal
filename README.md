@@ -1,0 +1,1 @@
+# static_school_portal
